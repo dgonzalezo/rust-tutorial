@@ -56,4 +56,4 @@ Si quires tener mas detalles, puedes seguir [esta guia](https://datacrayon.com/d
 - Elian Gonzalez Ordóñez ([@dgonzalezo](https://github.com/dgonzalezo))
 - Camilo Arturo Echeverry Ayala ([@CamiloAyala](https://github.com/CamiloAyala))
 - Juan Camilo Garcia Martinez ([@xabelian](https://github.com/xabelian))
-- Daniel Alejandro Melo Nuvan ([@]())
+- Daniel Alejandro Melo Nuvan ([@AlejoM1908](https://github.com/AlejoM1908))
