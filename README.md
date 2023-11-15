@@ -1,5 +1,5 @@
 # Rust tutorial
-This is a rust totorial page for programming language subject, Universidad nacional de Colombia.
+Esta es una pagina mostrar un tutorial de rust realizador para la materia lenuguajes de programacion, Universidad nacional de Colombia.
 
 ## Como replicar el Notebook
 ### Instalar Miniconda
