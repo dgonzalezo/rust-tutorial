@@ -47,6 +47,7 @@ Si todo se ejecuto correctamente deberias poder hacer una prueba ejecutando jupy
 jupyter lab
 ```
 Y deberias ver algo como esto
+
 ![screenshot](./images/jupyterRust.png)
 
 Si quires tener mas detalles, puedes seguir [esta guia](https://datacrayon.com/data-analysis-with-rust-notebooks/setup-anaconda-jupyter-and-rust/).
