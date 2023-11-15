@@ -20,7 +20,6 @@ conda create -n tutorial python=3
 Seguidamente tienes que activar tu amibente con el nombre que lo creaste.
 ```bash
 conda activate tutorial
- 
 ```
 
 ### Instalar paquetes
@@ -29,13 +28,11 @@ Vamos a necesitar los sigientes paquetes
 conda install -c conda-forge jupyterlab=2.2.9
 conda install -c anaconda cmake -y
 conda install -c conda-forge nodejs=15 -y
-
 ```
 ### Instalar Rust
 Puedes instalar Rust por medio de Rustup, puedes ver otros metodos de instalacion en su [pagina oficial](https://forge.rust-lang.org/infra/other-installation-methods.html).
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
- 
 ```
 Debes asegurarte de añadir cargo a tu PATH.
 
@@ -48,7 +45,6 @@ evcxr_jupyter --install
 Si todo se ejecuto correctamente deberias poder hacer una prueba ejecutando jupyter
 ```bash
 jupyter lab
- 
 ```
 Y deberias ver algo como esto
 ![screenshot](./images/jupyterRust.png)
